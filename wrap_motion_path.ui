@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>365</width>
-    <height>396</height>
+    <height>417</height>
    </rect>
   </property>
   <property name="maximumSize">
@@ -182,6 +182,22 @@ font: 12pt &quot;Roboto&quot;;</string>
           </property>
           <property name="text">
            <string>Wrap Path(s)</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <widget class="QWidget" name="widget_3" native="true">
+       <layout class="QVBoxLayout" name="verticalLayout_9">
+        <item>
+         <widget class="QLabel" name="lblStatus">
+          <property name="styleSheet">
+           <string notr="true">background-color: rgb(34, 47, 62);</string>
+          </property>
+          <property name="text">
+           <string/>
           </property>
          </widget>
         </item>
