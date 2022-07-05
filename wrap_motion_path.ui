@@ -197,7 +197,7 @@ font: 12pt &quot;Roboto&quot;;</string>
            <string notr="true">background-color: rgb(34, 47, 62);</string>
           </property>
           <property name="text">
-           <string/>
+           <string>Ready. Please start by adding a motion path.</string>
           </property>
          </widget>
         </item>
